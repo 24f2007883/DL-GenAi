@@ -25,7 +25,12 @@ Student Information :
 │   ├── inference.py            # Prediction and Kaggle submission generation
 │   └── utils.py                # Utility functions and MAP@3 evaluation metric
 │
+├── reports/               # Contains project reports and presentations 
+│
+│
 ├── .gitignore             # Excludes unnecessary files from version control
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies required to reproduce results
 ```
+
+Milestone-1 : Initial NLP Baseline Model 

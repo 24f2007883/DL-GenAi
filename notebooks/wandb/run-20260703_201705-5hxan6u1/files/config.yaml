@@ -1,0 +1,48 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            pvs98dsn87x0ieopr0hahjbkh02xturj:
+                codePath: e:\Projects\GenAi\notebooks\Transformer_Baseline.ipynb
+                codePathLocal: Transformer_Baseline.ipynb
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "53686038528"
+                        used: "4018487296"
+                email: 24f2007883@ds.study.iitm.ac.in
+                executable: e:\Projects\GenAi\.venv\Scripts\python.exe
+                git:
+                    commit: ba87d73b1946112788ce81e59f6e78be436e5197
+                    remote: https://github.com/24f2007883/DL-GenAi.git
+                host: Piyu
+                memory:
+                    total: "8268566528"
+                os: Windows-11-10.0.26200-SP0
+                program: e:\Projects\GenAi\notebooks\Transformer_Baseline.ipynb
+                python: CPython 3.13.3
+                root: e:\Projects\GenAi\notebooks
+                startedAt: "2026-07-03T14:47:05.001688Z"
+                writerId: pvs98dsn87x0ieopr0hahjbkh02xturj
+        m: []
+        python_version: 3.13.3
+        t:
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 51
+                - 53
+                - 75
+            "3":
+                - 2
+                - 13
+            "4": 3.13.3
+            "5": 0.28.0
+            "8":
+                - 1
+                - 3
+            "12": 0.28.0
+            "13": windows-amd64

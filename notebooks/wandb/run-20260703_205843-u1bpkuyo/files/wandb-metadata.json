@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.13.3",
+  "startedAt": "2026-07-03T15:28:43.975943Z",
+  "program": "e:\\Projects\\GenAi\\notebooks\\Transformer_Baseline.ipynb",
+  "codePath": "e:\\Projects\\GenAi\\notebooks\\Transformer_Baseline.ipynb",
+  "codePathLocal": "Transformer_Baseline.ipynb",
+  "git": {
+    "remote": "https://github.com/24f2007883/DL-GenAi.git",
+    "commit": "ba87d73b1946112788ce81e59f6e78be436e5197"
+  },
+  "email": "24f2007883@ds.study.iitm.ac.in",
+  "root": "e:\\Projects\\GenAi\\notebooks",
+  "host": "Piyu",
+  "executable": "e:\\Projects\\GenAi\\.venv\\Scripts\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "53686038528",
+      "used": "4445110272"
+    }
+  },
+  "memory": {
+    "total": "8268566528"
+  },
+  "writerId": "ade7tc481xic9pxdya2eoali8vvrtpqz"
+}

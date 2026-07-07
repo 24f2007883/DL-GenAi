@@ -1,0 +1,37 @@
+{"time":"2026-07-02T22:00:00.2544141+05:30","level":"INFO","msg":"wandb-core"}
+{"time":"2026-07-02T22:00:00.2649979+05:30","level":"INFO","msg":"stream: starting","core version":"0.28.0"}
+{"time":"2026-07-02T22:00:02.2169675+05:30","level":"INFO","msg":"stream: created new stream","id":"2vyqc11u"}
+{"time":"2026-07-02T22:00:02.2192864+05:30","level":"INFO","msg":"handler: started"}
+{"time":"2026-07-02T22:00:02.2497054+05:30","level":"INFO","msg":"stream: started"}
+{"time":"2026-07-02T22:00:02.2497054+05:30","level":"INFO","msg":"writer: started","stream_id":"2vyqc11u"}
+{"time":"2026-07-02T22:00:02.2497054+05:30","level":"INFO","msg":"sender: started"}
+{"time":"2026-07-02T22:00:10.1640436+05:30","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":2}
+{"time":"2026-07-02T22:00:10.7778041+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:00:25.1648061+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":0,"events_lines":1}
+{"time":"2026-07-02T22:00:25.7963411+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:00:40.1643555+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1,"events_lines":1}
+{"time":"2026-07-02T22:00:40.8401634+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:00:55.1643495+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":2,"events_lines":1}
+{"time":"2026-07-02T22:00:56.1055891+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:01:10.1680444+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":3,"events_lines":1}
+{"time":"2026-07-02T22:01:10.6891456+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:01:25.1642347+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":4,"events_lines":1}
+{"time":"2026-07-02T22:01:25.6850871+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:01:40.1651923+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":5,"events_lines":1}
+{"time":"2026-07-02T22:01:40.6935262+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:01:55.1645114+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":6,"events_lines":1}
+{"time":"2026-07-02T22:01:55.8127759+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:02:10.1642406+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":7,"events_lines":1}
+{"time":"2026-07-02T22:02:10.6530964+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:02:25.1661596+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":8,"events_lines":1}
+{"time":"2026-07-02T22:02:25.8509083+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:02:40.1647716+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":9,"events_lines":1}
+{"time":"2026-07-02T22:02:41.0057545+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:02:55.1645186+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":10,"events_lines":1}
+{"time":"2026-07-02T22:02:55.8425649+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:03:10.1655443+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":11,"events_lines":1}
+{"time":"2026-07-02T22:03:10.7005163+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:03:25.1641866+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":12,"events_lines":1}
+{"time":"2026-07-02T22:03:25.8243002+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-07-02T22:03:40.1644099+05:30","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":13,"events_lines":1}
+{"time":"2026-07-02T22:03:40.9042084+05:30","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
